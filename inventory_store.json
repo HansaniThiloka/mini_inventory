@@ -1,0 +1,11 @@
+{
+    "P001": {
+        "product_id": "P001",
+        "name": "Notebook",
+        "stock_quantity": 50,
+        "min_threshold": 20,
+        "restock_quantity": 30,
+        "priority": "high",
+        "category": "low_volume"
+    }
+}

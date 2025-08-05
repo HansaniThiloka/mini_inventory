@@ -1,0 +1,5 @@
+2025-08-05 01:09:36,633 - utils - INFO - Successfully loaded 0 products from inventory_store.json
+2025-08-05 01:09:36,634 - utils - INFO - Successfully saved 1 products to inventory_store.json
+2025-08-05 01:09:36,634 - utils - INFO - OPERATION: {"timestamp": "2025-08-05T01:09:36.634222", "operation": "ADD_PRODUCT", "product_id": "P001", "details": {"name": "Notebook", "stock_quantity": 50, "priority": "high", "category": "low_volume"}}
+2025-08-05 01:09:38,370 - utils - INFO - Successfully loaded 1 products from inventory_store.json
+2025-08-05 01:09:38,371 - utils - INFO - OPERATION: {"timestamp": "2025-08-05T01:09:38.371022", "operation": "ADD_PRODUCT_FAILED", "product_id": "P001", "details": {"reason": "Product already exists"}}
